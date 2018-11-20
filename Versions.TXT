@@ -1,0 +1,7 @@
+Base : v0.1
+LogWriter advance : V + 0.1
+String Manipulation advance : V + 0.1
+FileImporter advance : V + 0.1
+XNAGame sub advance : V + 0.1
+
+XNAGame.CtyGame workable : v1.0
